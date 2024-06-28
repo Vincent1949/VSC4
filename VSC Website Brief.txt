@@ -1,0 +1,153 @@
+Website Concept: Virtual Space Computers - Learning Centre
+Website Name: Virtual Space Computers - Learning Centre
+Purpose: Virtual Space Computers - Learning Centre aims to provide an interactive and engaging platform for students to ask questions and learn about various topics using animated voice avatars. These avatars will respond with both voice and text, offering personalized, dynamic interactions. The website will support follow-on questions to ensure comprehensive understanding. Each topic will be represented by a unique avatar, and answers will be sourced from specified Large Language Models (LLMs) such as OPENAI, Hugging Face, Gemini, etc.
+Key Features:
+1. Animated Voice Avatars:
+* Each avatar will have distinct characteristics and voices corresponding to their topic.
+* Avatars will respond to student questions with both voice and text.
+* Capability to handle follow-on questions to deepen the learning experience.
+2. Topic-Specific Avatars:
+* Technology Avatar: Represents questions related to technology, gadgets, software, and innovations.
+* Science Avatar: Focuses on various branches of science such as biology, chemistry, physics, and environmental science.
+* Astronomy Avatar: Specializes in topics related to space, planets, stars, and the universe.
+* General Knowledge Avatar: Covers a wide range of topics that do not fit into the other three categories, including history, geography, arts, and current events.
+3. LLM Integration:
+* The avatars will use responses sourced from top-tier Large Language Models like OPENAI, Hugging Face, and Gemini.
+* Continuous learning and updates to provide accurate and up-to-date information.
+4. User Interaction:
+* Students can type their questions, and the avatars will respond with both a spoken and written answer.
+* Easy-to-use interface allowing students to select the topic avatar and ask questions.
+* Follow-on question capability ensures thorough understanding and interactive learning.
+Website Structure:
+1. Home Page:
+* Welcome message and brief introduction to the Virtual Space Computers - Learning Centre.
+* Navigation menu with links to different sections of the website.
+2. Avatar Selection Page:
+* Introduction to each avatar with brief descriptions of their specialties.
+* Options to select an avatar to start asking questions.
+3. Question Interface:
+* Text input field for students to type their questions.
+* Animated avatar response area where the selected avatar will appear and respond.
+* Follow-on question option for continued dialogue.
+4. Resource Section:
+* Educational articles, tutorials, and links to external resources for further learning.
+* FAQs and troubleshooting guide.
+5. Contact Us:
+* Contact form for feedback, suggestions, and inquiries.
+* Support information and frequently asked questions.
+Example Interaction:
+Student: "What is the speed of light?"
+Science Avatar:
+* Voice Response: "The speed of light in a vacuum is approximately 299,792 kilometres per second."
+* Text Response: "The speed of light in a vacuum is approximately 299,792 kilometres per second."
+Student: "Can you explain why light has this speed?"
+Science Avatar:
+* Voice Response: "The speed of light is determined by the properties of space and the nature of light itself. It's a fundamental constant of nature."
+* Text Response: "The speed of light is determined by the properties of space and the nature of light itself. It's a fundamental constant of nature."
+By leveraging the power of advanced LLMs and engaging animated avatars, Virtual Space Computers - Learning Centre aims to revolutionize the way students learn and interact with information.
+Website Concept: Virtual Space Computers - Learning Centre
+Website Name: Virtual Space Computers - Learning Centre
+Purpose: Virtual Space Computers - Learning Centre aims to provide an interactive and engaging platform for students to ask questions and learn about various topics using animated voice avatars. These avatars will respond with both voice and text, offering personalized, dynamic interactions. The website will support follow-on questions to ensure comprehensive understanding. Each topic will be represented by a unique avatar, and answers will be sourced from specified Large Language Models (LLMs) such as OPENAI, Hugging Face, Gemini, etc.
+Key Features:
+1. Animated Voice Avatars:
+* Each avatar will have distinct characteristics and voices corresponding to their topic.
+* Avatars will respond to student questions with both voice and text.
+* Capability to handle follow-on questions to deepen the learning experience.
+2. Topic-Specific Avatars:
+* Technology Avatar: Represents questions related to technology, gadgets, software, and innovations.
+* Science Avatar: Focuses on various branches of science such as biology, chemistry, physics, and environmental science.
+* Astronomy Avatar: Specializes in topics related to space, planets, stars, and the universe.
+* General Knowledge Avatar: Covers a wide range of topics that do not fit into the other three categories, including history, geography, arts, and current events.
+3. LLM Integration:
+* The avatars will use responses sourced from top-tier Large Language Models like OPENAI, Hugging Face, and Gemini.
+* Continuous learning and updates to provide accurate and up-to-date information.
+4. User Interaction:
+* Students can type their questions, and the avatars will respond with both a spoken and written answer.
+* Easy-to-use interface allowing students to select the topic avatar and ask questions.
+* Follow-on question capability ensures thorough understanding and interactive learning.
+Website Structure:
+1. Home Page:
+* Welcome message and brief introduction to the Virtual Space Computers - Learning Centre.
+* Navigation menu with links to different sections of the website.
+2. Avatar Selection Page:
+* Introduction to each avatar with brief descriptions of their specialties.
+* Options to select an avatar to start asking questions.
+3. Question Interface:
+* Text input field for students to type their questions.
+* Animated avatar response area where the selected avatar will appear and respond.
+* Follow-on question option for continued dialogue.
+4. Resource Section:
+* Educational articles, tutorials, and links to external resources for further learning.
+* FAQs and troubleshooting guide.
+5. Contact Us:
+* Contact form for feedback, suggestions, and inquiries.
+* Support information and frequently asked questions.
+Example Interaction:
+Student: "What is the speed of light?"
+Science Avatar:
+* Voice Response: "The speed of light in a vacuum is approximately 299,792 kilometres per second."
+* Text Response: "The speed of light in a vacuum is approximately 299,792 kilometres per second."
+Student: "Can you explain why light has this speed?"
+Science Avatar:
+* Voice Response: "The speed of light is determined by the properties of space and the nature of light itself. It's a fundamental constant of nature."
+* Text Response: "The speed of light is determined by the properties of space and the nature of light itself. It's a fundamental constant of nature."
+By leveraging the power of advanced LLMs and engaging animated avatars, Virtual Space Computers - Learning Centre aims to revolutionize the way students learn and interact with information.
+The Agents you need to implement, but are not limited to, for this project.
+Project Manager
+Project Manager (PM): "Accepts Goal and assigns agents. Our goal is to create the 'Virtual Space Computers - Learning Centre' website. The Agents tasks and responsibilities are:
+1. Web Developer (WD): Be responsible for building the website's structure, integrating the animated avatars, and ensuring smooth interaction.
+2. UX/UI Designer (UX/UI): Design the user interface, ensuring it's intuitive and engaging. Focus on avatar animations and user interactions.
+3. Content Creator (CC): Research response to Student questions via LLM and write the scripts for the avatars' responses.
+4. Voice Actor (VA): Provide distinct voices for each avatar. Record scripts provided by the Content Creator in real-time.
+5. LLM Specialist (LLM): Integrate the specified LLMs (OPENAI, Hugging Face, Gemini) to ensure avatars provide accurate responses.
+6. Quality Assurance (QA): Ensure the website functions smoothly, testing all features for bugs and usability issues.
+Start with initial plans and tasks."
+Web Developer
+Web Developer (WD): "Set up the website structure using HTML, CSS, and JavaScript. Use a framework like React for dynamic content and interactivity. For the backend, set up a server with Node.js and Express to handle user queries and LLM integration.
+Tasks:
+* Set up the homepage, avatar selection page, question interface, and resource section.
+* Implement text input fields and display areas for avatar responses.
+* Integrate animated avatars using CSS animations and JavaScript libraries.
+* Ensure responsive design for various devices."
+UX/UI Designer
+UX/UI Designer (UX/UI): "Design wireframes and prototypes for the website. Focus will be on user-friendly navigation and engaging avatar animations.
+Tasks:
+* Create wireframes for each page (Home, Avatar Selection, Question Interface, Resource Section).
+* Design avatars with distinct appearances matching their topics.
+* Develop a colour scheme and typography that is educational and engaging.
+* Ensure the design is accessible and user-friendly."
+Content Creator
+Content Creator (CC): "Write content for the website and scripts for the avatars.
+Tasks:
+* Develop introductory content for the Home and Avatar Selection pages.
+* Write educational articles and tutorials for the Resource Section.
+* Create detailed scripts for avatars to respond to common questions in Technology, Science, Astronomy, and General Knowledge.
+* Compile FAQs and troubleshooting guides."
+Voice Actor
+Voice Actor (VA): "Record the scripts provided by the Content Creator.
+Tasks:
+* Create distinct voices for each avatar, matching their topics.
+* Record clear and engaging audio responses for each script.
+* Edit and format audio files for seamless integration into the website."
+LLM Specialist
+LLM Specialist (LLM): "Ensure that the avatars can source their answers from specified LLMs like OPENAI, Hugging Face, and Gemini.
+Tasks:
+* Integrate APIs from OPENAI, Hugging Face, and Gemini to fetch responses.
+* Develop a system to select the appropriate model based on the topic.
+* Test and fine-tune the models to provide accurate and relevant answers.
+* Implement a mechanism for follow-on questions to ensure coherent dialogues."
+Quality Assurance
+Quality Assurance (QA): "Test the website to ensure everything works smoothly.
+Tasks:
+* Test all features and functionalities on various devices and browsers.
+* Ensure avatar animations and interactions are smooth and responsive.
+* Check the accuracy of responses sourced from LLMs.
+* Identify and report any bugs or usability issues."
+Progress Check-in
+Project Manager (PM): "Set a timeline for each phase:
+* Initial designs, basic website structure, and LLM integration setup.
+* Detailed UI design, content creation, and voice recording.
+* Full implementation of all features, testing, and bug fixes.
+* Final review, adjustments, and launch.
+Regular check-ins will be scheduled to track progress and address any issues. Let's get started!"
+

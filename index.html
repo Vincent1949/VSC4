@@ -8,25 +8,27 @@
 </head>
 <body>
     <div class="container">
-        <div class="header">
+        <header role="banner" class="header">
             <h1>Virtual Space Computers - Learning Centre</h1>
-        </div>
-        <div class="welcome-message">
-            <audio id="welcomeAudio" autoplay controls>
-                <source src="welcome-message.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            <div class="avatar">
-                <img src="Penny_Farthing.png" alt="Penny Farthing">
+        </header>
+        <main role="main">
+            <div class="welcome-message">
+                <audio id="welcomeAudio" autoplay controls aria-label="Welcome Message">
+                    <source src="welcome-message.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <div class="avatar">
+                    <img src="Penny_Farthing.png" alt="Illustration of Penny Farthing" class="avatar-image">
+                </div>
+                <p class="text-message">Welcome to the Virtual Space Computers - Learning Centre. The new standard for answering your questions. We use interactive AI voice avatars to give you a 360-degree view of the world of information and supplement the questions you ask. I am Penny Farthing, your presenter.</p>
             </div>
-            <p class="text-message">Welcome to the Virtual Space Computers - Learning Centre. The new standard for answering your questions. We use interactive AI voice avatars to give you a 360-degree view of the world of information and supplement the questions you ask. I am Penny Farthing, your presenter.</p>
-        </div>
-        <div class="links">
-            <a href="technology.html">Technology</a>
-            <a href="science.html">Science</a>
-            <a href="astronomy.html">Astronomy</a>
-            <a href="general_knowledge.html">General Knowledge</a>
-        </div>
+            <nav role="navigation" class="links">
+                <a href="technology.html" aria-label="Go to Technology section">Technology</a>
+                <a href="science.html" aria-label="Go to Science section">Science</a>
+                <a href="astronomy.html" aria-label="Go to Astronomy section">Astronomy</a>
+                <a href="general_knowledge.html" aria-label="Go to General Knowledge section">General Knowledge</a>
+            </nav>
+        </main>
     </div>
 </body>
 </html>
